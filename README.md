@@ -7,7 +7,7 @@ Welcome to the Task Management Application! This application allows users to man
 Clone the project
 
 ```bash
-  git clone https://github.com/vikram0104irctc/Task_Management
+ https://github.com/ruchipriya1009/Task_Management_App
 ```
 
 Go to the project Client directory
@@ -46,9 +46,6 @@ Start the server
   npm run start
 ```
 
-## 🔗 Developers
-
-- Vikram Kumar Choudhary: (https://github.com/vikram0104irctc)
 
 ## Tech Stack
 
@@ -63,7 +60,7 @@ _libraries:_ Argon2, CORS, JSON Web Token<br/>
 
 # Deployed Link
 
-- https://taskmanagerwebapp.vercel.app/
+https://warm-bombolone-a335a5.netlify.app/
 
 # Features
 
