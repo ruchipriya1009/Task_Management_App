@@ -77,13 +77,17 @@ _libraries:_ Argon2, CORS, JSON Web Token<br/>
 
 - A brief overview of the app with an intuitive task management interface, powered by React and Redux.
 
-![alt text](./client/src/assets/landingpage.png)
+![image](https://github.com/user-attachments/assets/e5622753-e1c4-4b23-88fd-1003602b9151)
+
 
 # Authentication
 
 - **SignUp and SignIn**: Secure user registration and login with password hashing (argon2) and JSON Web Tokens (JWT).
 
-![alt text](./client/src/assets/loginpage.png)
+![image](https://github.com/user-attachments/assets/543f4ed9-af3e-4009-b645-44397e241c29)
+![image](https://github.com/user-attachments/assets/874c0cc6-a922-4134-a489-c31e10db49fb)
+
+
 
 ## Task Management
 
@@ -95,7 +99,8 @@ _libraries:_ Argon2, CORS, JSON Web Token<br/>
 
 - **Task Edit & Update**: Modify the details of your existing tasks.
 
-![alt text](./client/src/assets/taskupdate.png)
+![image](https://github.com/user-attachments/assets/d52ca56d-4cc3-4891-bab9-abefd364f74e)
+
 
 -- **Task Deletion**: Remove completed or irrelevant tasks with ease.
 
