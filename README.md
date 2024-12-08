@@ -74,14 +74,14 @@ https://warm-bombolone-a335a5.netlify.app
 
 - A brief overview of the app with an intuitive task management interface, powered by React and Redux.
 
-![alt text](./client/src/assets/landingpage.png)
+![image](https://github.com/user-attachments/assets/4edfac89-a0c5-4b18-8b5b-c21f2784f94b)
+
 
 # Authentication
 
 - **SignUp and SignIn**: Secure user registration and login with password hashing (argon2) and JSON Web Tokens (JWT).
-
-![image](https://github.com/user-attachments/assets/9080433b-ae78-4eba-ad2a-f2cd383342f4)
-
+- ![image](https://github.com/user-attachments/assets/e0257bc1-1dec-4b7a-9616-6f6631a23daf)
+![image](https://github.com/user-attachments/assets/27b6729b-8e7b-44d5-85d6-d5dcfd95a75a)
 
 ## Task Management
 
@@ -89,15 +89,18 @@ https://warm-bombolone-a335a5.netlify.app
 
 - **Task Creation**: Add new tasks to your to-do list.
 
-![alt text](./client/src/assets/taskadd.png)
+![image](https://github.com/user-attachments/assets/91a2cfc6-daf3-4598-9711-8028c82a2580)
+
 
 - **Task Edit & Update**: Modify the details of your existing tasks.
 
-![alt text](./client/src/assets/taskupdate.png)
+![image](https://github.com/user-attachments/assets/7d6e35cd-f32c-4352-ba05-9118dc08d072)
+
 
 -- **Task Deletion**: Remove completed or irrelevant tasks with ease.
 
-![alt text](./client/src/assets/modification.png)
+![image](https://github.com/user-attachments/assets/c7139ebd-0019-49b6-b349-0094c37ea091)
+
 
 # Task Dragging (Framer Motion)
 
