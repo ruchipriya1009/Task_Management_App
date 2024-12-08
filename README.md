@@ -92,7 +92,8 @@ https://warm-bombolone-a335a5.netlify.app/
 
 - **Task Creation**: Add new tasks to your to-do list.
 
-![alt text](./client/src/assets/taskadd.png)
+![image](https://github.com/user-attachments/assets/8d63c888-f402-4c3d-ac9f-4bde49c78a27)
+
 
 - **Task Edit & Update**: Modify the details of your existing tasks.
 
@@ -101,7 +102,8 @@ https://warm-bombolone-a335a5.netlify.app/
 
 -- **Task Deletion**: Remove completed or irrelevant tasks with ease.
 
-![alt text](./client/src/assets/modification.png)
+![image](https://github.com/user-attachments/assets/26a412d9-3a14-455e-bc67-be5e0dfdef3d)
+
 
 # Task Dragging (Framer Motion)
 
