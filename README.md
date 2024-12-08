@@ -80,7 +80,8 @@ https://warm-bombolone-a335a5.netlify.app
 
 - **SignUp and SignIn**: Secure user registration and login with password hashing (argon2) and JSON Web Tokens (JWT).
 
-![alt text](./client/src/assets/loginpage.png)
+![image](https://github.com/user-attachments/assets/9080433b-ae78-4eba-ad2a-f2cd383342f4)
+
 
 ## Task Management
 
